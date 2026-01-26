@@ -22,9 +22,9 @@
 
 ---
 
-## 📊 Projets Data & IA (Focus)
+## Projets Data & IA (Focus)
 
-### 🎯 [Dashboard Marketing & Prédiction CLV](https://github.com/GABRIELpha/CLV-RFM-Marketing-App)
+### [Dashboard Marketing & Prédiction CLV](https://github.com/GABRIELpha/CLV-RFM-Marketing-App)
 > **Stack :** `Python` `Pandas` `Streamlit` `RFM Analysis`
 * **Data Engineering :** Nettoyage et transformation d'un dataset retail massif (>1M transactions).
 * **Analyse Stratégique :** Segmentation client RFM (Récence, Fréquence, Montant) et analyse de cohortes.
