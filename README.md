@@ -24,6 +24,12 @@
 
 ## Projets Data & IA (Focus)
 
+### [Architecture Data & ETL Immobilier (DVF)](https://github.com/GABRIELpha/dvf-etl-pipeline-duckdb)
+> **Stack :** `Python` `Pandas` `DuckDB` `SQL` `ETL Architecture`
+* **Pipeline ETL :** Conception et implémentation d'une architecture "Multi-hop" (Raw → Staging → Curated) pour nettoyer l'Open Data gouvernemental.
+* **Modern Data Stack :** Mise en place d'un Data Warehouse local haute performance via DuckDB (OLAP) pour l'analyse de millions de transactions.
+* **Documentation Technique :** Rédaction d'un TAD (Technical Architecture Document) et modélisation des flux de données avec ArchiMate.
+* 
 ### [Dashboard Marketing & Prédiction CLV](https://github.com/GABRIELpha/CLV-RFM-Marketing-App)
 > **Stack :** `Python` `Pandas` `Streamlit` `RFM Analysis`
 * **Data Engineering :** Nettoyage et transformation d'un dataset retail massif (>1M transactions).
